@@ -1,1 +1,2 @@
 # ENGG-project_first_sem
+Project work of ENGG during first Semester. The program is made to solve the particular problem of thermodynamics for any given values of pressure and volume. It is capable enough to change the units of pressure and volume , though only limited units can be converted to standard units through the program. 
